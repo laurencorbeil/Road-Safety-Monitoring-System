@@ -1,0 +1,1622 @@
+{
+    "h1": {
+        "Coordinate": "43°08'14\"N 79°06'46\"W",
+        "Connections": ["h10", "h16", "h20", "h24"],
+        "Directions": ["North", "NorthWest", "East", "South"],
+        "Distances": [198, 177, 123, 161],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h2": {
+        "Coordinate": "43°08'16\"N 79°06'37\"W",
+        "Connections": ["h9", "h19", "h20"],
+        "Directions": ["North", "East", "West"],
+        "Distances": [51, 203, 87],
+        "Image 1": {
+            "Timestamp": 2018,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2018,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h3": {
+        "Coordinate": "43°08'17\"N 79°06'43\"W",
+        "Connections": ["h9"],
+        "Directions": ["East"],
+        "Distances": [120],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Sewer Gate"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        }
+    },
+    "h4": {
+        "Coordinate": "43°08'18\"N 79°06'24\"W",
+        "Connections": ["h5", "h8", "h23"],
+        "Directions": ["NorthWest", "West", "East"],
+        "Distances": [131, 148, 244],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Sewer Gate"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 2,
+            "Issue": "Sewer Gate"
+        }
+    },
+    "h5": {
+        "Coordinate": "43°08'22\"N 79°06'27\"W",
+        "Connections": ["h4", "h6", "h7"],
+        "Directions": ["SouthEast", "East", "NorthWest"],
+        "Distances": [131, 178, 97],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h6": {
+        "Coordinate": "43°08'23\"N 79°06'19\"W",
+        "Connections": ["h5"],
+        "Directions": ["West"],
+        "Distances": [178],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h7": {
+        "Coordinate": "43°08'24\"N 79°06'30\"W",
+        "Connections": ["h5", "h11"],
+        "Directions": ["SouthEast", "West"],
+        "Distances": [97, 315],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h8": {
+        "Coordinate": "43°08'19\"N 79°06'30\"W",
+        "Connections": ["h4", "h9"],
+        "Directions": ["East", "West"],
+        "Distances": [148, 164],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h9": {
+        "Coordinate": "43°08'18\"N 79°06'37\"W",
+        "Connections": ["h2", "h3", "h8"],
+        "Directions": ["South", "West", "East"],
+        "Distances": [51, 120, 164],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 2,
+            "Issue": "Pothole"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Sewer Gate"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        }
+    },
+    "h10": {
+        "Coordinate": "43°08'21\"N 79°06'46\"W",
+        "Connections": ["h1", "h12"],
+        "Directions": ["South", "North"],
+        "Distances": [198, 188],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h11": {
+        "Coordinate": "43°08'27\"N 79°06'43\"W",
+        "Connections": ["h7", "h12"],
+        "Directions": ["East", "West"],
+        "Distances": [315, 62],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h12": {
+        "Coordinate": "43°08'27\"N 79°06'46\"W",
+        "Connections": ["h10", "h11", "h13"],
+        "Directions": ["South", "East", "North"],
+        "Distances": [188, 62, 233],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 3,
+            "Issue": "Pothole"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h13": {
+        "Coordinate": "43°08'34\"N 79°06'46\"W",
+        "Connections": ["h12"],
+        "Directions": ["South"],
+        "Distances": [233],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 2,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 2,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 2,
+            "Issue": "Cracks"
+        }
+    },
+    "h14": {
+        "Coordinate": "43°08'08\"N 79°06'28\"W",
+        "Connections": ["h15", "h17", "h22"],
+        "Directions": ["NorthWest", "North", "NorthEast"],
+        "Distances": [99, 252, 382],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h15": {
+        "Coordinate": "43°08'10\"N 79°06'31\"W",
+        "Connections": ["h14", "h18"],
+        "Directions": ["SouthEast", "North"],
+        "Distances": [99, 132],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h16": {
+        "Coordinate": "43°08'18\"N 79°06'50\"W",
+        "Connections": ["h1"],
+        "Directions": ["SouthEast"],
+        "Distances": [177],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Pothole"
+        }
+    },
+    "h17": {
+        "Coordinate": "43°08'16\"N 79°06'25\"W",
+        "Connections": ["h14", "h19", "h21"],
+        "Directions": ["South", "West", "East"],
+        "Distances": [252, 90, 76],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        },
+        "Image 4": {
+            "Timestamp": 2021,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 3,
+            "Issue": "Road closure to h14"
+        }
+    },
+    "h18": {
+        "Coordinate": "43°08'14\"N 79°06'30\"W",
+        "Connections": ["h15", "h19"],
+        "Directions": ["South", "North"],
+        "Distances": [132, 76],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Speedbump"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Speedbump"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Speedbump"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Speedbump"
+        }
+    },
+    "h19": {
+        "Coordinate": "43°08'16\"N 79°06'28\"W",
+        "Connections": ["h2", "h17", "h18"],
+        "Directions": ["West", "East", "South"],
+        "Distances": [203, 90, 76],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2018,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2018,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h20": {
+        "Coordinate": "43°08'15\"N 79°06'41\"W",
+        "Connections": ["h1", "h2"],
+        "Directions": ["West", "East"],
+        "Distances": [123, 87],
+        "Image 1": {
+            "Timestamp": 2018,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2018,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h21": {
+        "Coordinate": "43°08'15\"N 79°06'21\"W",
+        "Connections": ["h17", "h22"],
+        "Directions": ["West", "East"],
+        "Distances": [76, 170],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h22": {
+        "Coordinate": "43°08'13\"N 79°06'14\"W",
+        "Connections": ["h14", "h21", "h23", "c5"],
+        "Directions": ["SouthWest", "West", "North", "East"],
+        "Distances": [382, 170, 80, 317],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h23": {
+        "Coordinate": "43°08'15\"N 79°06'14\"W",
+        "Connections": ["h4", "h22"],
+        "Directions": ["West", "South"],
+        "Distances": [244, 80],
+        "Image 1": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Sewer Gate"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 2,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "h24": {
+        "Coordinate": "43°08'09\"N 79°06'46\"W",
+        "Connections": ["h1", "s10"],
+        "Directions": ["North", "South"],
+        "Distances": [161, 229],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2021,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "c1": {
+        "Coordinate": "43°07'48\"N 79°06'00\"W",
+        "Connections": ["c2", "c15"],
+        "Directions": ["North", "West"],
+        "Distances": [195, 147],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        }
+    },
+    "c2": {
+        "Coordinate": "43°07'54\"N 79°05'59\"W",
+        "Connections": ["c1", "c3"],
+        "Directions": ["South", "North"],
+        "Distances": [195, 155],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c3": {
+        "Coordinate": "43°07'59\"N 79°05'59\"W",
+        "Connections": ["c2", "c4", "c10"],
+        "Directions": ["South", "North", "West"],
+        "Distances": [155, 95, 130],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "cracks"
+        }
+    },
+    "c4": {
+        "Coordinate": "43°08'02\"N 79°05'59\"W",
+        "Connections": ["c3", "c5", "c6"],
+        "Directions": ["South", "North", "West"],
+        "Distances": [95, 220, 276],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "cracks"
+        }
+    },
+    "c5": {
+        "Coordinate": "43°08'10\"N 79°06'01\"W",
+        "Connections": ["c4", "h22", "l22"],
+        "Directions": ["South", "NorthWest", "North"],
+        "Distances": [220, 317, 284],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c6": {
+        "Coordinate": "43°08'01\"N 79°06'11\"W",
+        "Connections": ["c4", "c7", "c8"],
+        "Directions": ["East", "West", "South"],
+        "Distances": [276, 120, 52],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "cracks"
+        }
+    },
+    "c7": {
+        "Coordinate": "43°08'01\"N 79°06'16\"W",
+        "Connections": ["c6"],
+        "Directions": ["East"],
+        "Distances": [120],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c8": {
+        "Coordinate": "43°07'59\"N 79°06'12\"W",
+        "Connections": ["c6", "c9"],
+        "Directions": ["North", "SouthEast"],
+        "Distances": [52, 76],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        }
+    },
+    "c9": {
+        "Coordinate": "43°07'58\"N 79°06'09\"W",
+        "Connections": ["c8", "c10", "c11"],
+        "Directions": ["NorthWest", "NorthEast", "SouthEast"],
+        "Distances": [76, 113, 115],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        }
+    },
+    "c10": {
+        "Coordinate": "43°08'00\"N 79°06'05\"W",
+        "Connections": ["c3", "c9"],
+        "Directions": ["East", "SouthWest"],
+        "Distances": [130, 113],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c11": {
+        "Coordinate": "43°07'56\"N 79°06'05\"W",
+        "Connections": ["c9"],
+        "Directions": ["NorthWest"],
+        "Distances": [115],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c12": {
+        "Coordinate": "43°07'52\"N 79°06'22\"W",
+        "Connections": ["c13", "c18", "c21"],
+        "Directions": ["South", "East", "North"],
+        "Distances": [145, 123, 125],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c13": {
+        "Coordinate": "43°07'48\"N 79°06'23\"W",
+        "Connections": ["c12", "c14", "s26"],
+        "Directions": ["North", "East", "West"],
+        "Distances": [145, 190, 132],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "N/A"
+        }
+    },
+    "c14": {
+        "Coordinate": "43°07'48\"N 79°06'15\"W",
+        "Connections": ["c13", "c15"],
+        "Directions": ["West", "East"],
+        "Distances": [190, 194],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c15": {
+        "Coordinate": "43°07'48\"N 79°06'06\"W",
+        "Connections": ["c1", "c14"],
+        "Directions": ["East", "West"],
+        "Distances": [147, 194],
+        "Image 1": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c16": {
+        "Coordinate": "43°07'51\"N 79°06'05\"W",
+        "Connections": ["c15", "c17"],
+        "Directions": ["South", "NorthWest"],
+        "Distances": [88, 83],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c17": {
+        "Coordinate": "43°07'52\"N 79°06'08\"W",
+        "Connections": ["c16", "c18", "c20"],
+        "Directions": ["SouthEast", "West", "NorthWest"],
+        "Distances": [83, 215, 153],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c18": {
+        "Coordinate": "43°07'51\"N 79°06'17\"W",
+        "Connections": ["c12", "c17", "c19"],
+        "Directions": ["West", "East", "North"],
+        "Distances": [123, 215, 59],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c19": {
+        "Coordinate": "43°07'53\"N 79°06'17\"W",
+        "Connections": ["c18"],
+        "Directions": ["South"],
+        "Distances": [59],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c20": {
+        "Coordinate": "43°07'56\"N 79°06'14\"W",
+        "Connections": ["c17", "c21"],
+        "Directions": ["SouthEast", "West"],
+        "Distances": [153, 135],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 4": {
+            "Timestamp": 2015,
+            "Severity": 1,
+            "Issue": "sewergate"
+        },
+        "Image 5": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "none"
+        }
+    },
+    "c21": {
+        "Coordinate": "43°07'56\"N 79°06'20\"W",
+        "Connections": ["c12", "c20", "s21"],
+        "Directions": ["South", "East", "West"],
+        "Distances": [125, 135, 157],
+        "Image 1": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 2": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "N/A"
+        },
+        "Image 3": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "N/A"
+        },
+        "Image 4": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "none"
+        },
+        "Image 5": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "N/A"
+        },
+        "Image 6": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "N/A"
+        }
+    }
+}
