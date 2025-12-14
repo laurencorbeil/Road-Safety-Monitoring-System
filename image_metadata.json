@@ -863,6 +863,870 @@
             "Issue": "None"
         }
     },
+    "l1": {
+        "Coordinate": "43°08'27\"N 79°06'14\"W",
+        "Connections": ["l2"],
+        "Directions": ["East"],
+        "Distances": [58],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l2": {
+        "Coordinate": "43°08'27\"N 79°06'11\"W",
+        "Connections": ["l1", "l3", "l6"],
+        "Directions": ["West", "East", "South"],
+        "Distances": [58, 93, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l3": {
+        "Coordinate": "43°08'26\"N 79°06'07\"W",
+        "Connections": ["l2", "l5"],
+        "Directions": ["West", "South"],
+        "Distances": [93, 45],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l4": {
+        "Coordinate": "43°08'21\"N 79°06'16\"W",
+        "Connections": ["l19", "l20"],
+        "Directions": ["North", "SouthEast"],
+        "Distances": [52, 45],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l5": {
+        "Coordinate": "43°08'25\"N 79°06'07\"W",
+        "Connections": ["l3", "l6", "l7"],
+        "Directions": ["North", "West", "South"],
+        "Distances": [45, 92, 49],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l6": {
+        "Coordinate": "43°08'25\"N 79°06'11\"W",
+        "Connections": ["l2", "l5", "l8"],
+        "Directions": ["North", "East", "South"],
+        "Distances": [57, 92, 50],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l7": {
+        "Coordinate": "43°08'23\"N 79°06'07\"W",
+        "Connections": ["l5", "l8", "l10", "l23"],
+        "Directions": ["North", "West", "South", "East"],
+        "Distances": [49, 90, 43, 72],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l8": {
+        "Coordinate": "43°08'23\"N 79°06'11\"W",
+        "Connections": ["l6", "l7", "l9"],
+        "Directions": ["North", "East", "South"],
+        "Distances": [50, 90, 29],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l9": {
+        "Coordinate": "43°08'22\"N 79°06'11\"W",
+        "Connections": ["l8", "l10", "l21"],
+        "Directions": ["North", "East", "South"],
+        "Distances": [29, 90, 29],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l10": {
+        "Coordinate": "43°08'22\"N 79°06'07\"W",
+        "Connections": ["l7", "l9", "l12", "l23"],
+        "Directions": ["North", "West", "South", "East"],
+        "Distances": [43, 90, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l11": {
+        "Coordinate": "43°08'19\"N 79°06'09\"W",
+        "Connections": ["l14", "l15"],
+        "Directions": ["East", "West"],
+        "Distances": [57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l12": {
+        "Coordinate": "43°08'20\"N 79°06'07\"W",
+        "Connections": ["l10", "l15", "l21"],
+        "Directions": ["North", "South", "West"],
+        "Distances": [57, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l13": {
+        "Coordinate": "43°08'20\"N 79°06'12\"W",
+        "Connections": ["l14", "l20", "l21"],
+        "Directions": ["East", "West", "North"],
+        "Distances": [57, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l14": {
+        "Coordinate": "43°08'19\"N 79°06'10\"W",
+        "Connections": ["l11", "l13"],
+        "Directions": ["East", "West"],
+        "Distances": [57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l15": {
+        "Coordinate": "43°08'18\"N 79°06'07\"W",
+        "Connections": ["l11", "l12", "l18", "l22"],
+        "Directions": ["West", "North", "South", "East"],
+        "Distances": [57, 57, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l16": {
+        "Coordinate": "43°08'14\"N 79°06'07\"W",
+        "Connections": ["l17", "l18"],
+        "Directions": ["East", "North"],
+        "Distances": [57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l17": {
+        "Coordinate": "43°08'14\"N 79°06'05\"W",
+        "Connections": ["l16"],
+        "Directions": ["West"],
+        "Distances": [57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l18": {
+        "Coordinate": "43°08'17\"N 79°06'07\"W",
+        "Connections": ["l15", "l16"],
+        "Directions": ["North", "South"],
+        "Distances": [57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l19": {
+        "Coordinate": "43°08'23\"N 79°06'16\"W",
+        "Connections": ["l4"],
+        "Directions": ["South"],
+        "Distances": [49],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l20": {
+        "Coordinate": "43°08'20\"N 79°06'14\"W",
+        "Connections": ["l4", "l13"],
+        "Directions": ["NorthWest", "East"],
+        "Distances": [45, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l21": {
+        "Coordinate": "43°08'21\"N 79°06'11\"W",
+        "Connections": ["l9", "l12", "l13"],
+        "Directions": ["North", "East", "South"],
+        "Distances": [29, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l22": {
+        "Coordinate": "43°08'18\"N 79°06'04\"W",
+        "Connections": ["l15", "l23"],
+        "Directions": ["West", "North"],
+        "Distances": [57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l23": {
+        "Coordinate": "43°08'23\"N 79°06'04\"W",
+        "Connections": ["l7", "l10", "l22", "l24"],
+        "Directions": ["West", "West", "South", "North"],
+        "Distances": [72, 57, 57, 57],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "l24": {
+        "Coordinate": "43°08'29\"N 79°06'04\"W",
+        "Connections": ["l23"],
+        "Directions": ["South"],
+        "Distances": [42],
+        "Image 1": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
     "c1": {
         "Coordinate": "43°07'48\"N 79°06'00\"W",
         "Connections": ["c2", "c15"],
@@ -1328,7 +2192,7 @@
         "Image 6": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "N/A"
+            "Issue": "none"
         }
     },
     "c14": {
@@ -1596,12 +2460,12 @@
         "Image 2": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "N/A"
+            "Issue": "none"
         },
         "Image 3": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "N/A"
+            "Issue": "none"
         },
         "Image 4": {
             "Timestamp": 2012,
@@ -1611,12 +2475,876 @@
         "Image 5": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "N/A"
+            "Issue": "none"
         },
         "Image 6": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "N/A"
+            "Issue": "none"
+        }
+    },
+	"s1": {
+        "Coordinate": "43°08'10\"N 79°06'41\"W",
+        "Connections": ["s2"],
+        "Directions": ["South"],
+        "Distances": [54],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s2": {
+        "Coordinate": "43°08'08\"N 79°06'41\"W",
+        "Connections": ["s1", "s3"],
+        "Directions": ["North", "South"],
+        "Distances": [54, 63],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s3": {
+        "Coordinate": "43°08'06\"N 79°06'41\"W",
+        "Connections": ["s2", "s4"],
+        "Directions": ["North", "South"],
+        "Distances": [63, 68],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s4": {
+        "Coordinate": "43°08'04\"N 79°06'41\"W",
+        "Connections": ["s3", "s5", "s8"],
+        "Directions": ["North", "East", "West"],
+        "Distances": [68, 45, 75],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s5": {
+        "Coordinate": "43°08'04\"N 79°06'39\"W",
+        "Connections": ["s4", "s6"],
+        "Directions": ["West", "East"],
+        "Distances": [45, 101],
+        "Image 1": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s6": {
+        "Coordinate": "43°08'04\"N 79°06'35\"W",
+        "Connections": ["s5", "s7"],
+        "Directions": ["West", "East"],
+        "Distances": [101, 96],
+        "Image 1": {
+            "Timestamp": 2023,
+            "Severity": 1,
+            "Issue": "Road signs"
+        },
+        "Image 2": {
+            "Timestamp": 2023,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s7": {
+        "Coordinate": "43°08'06\"N 79°06'31\"W",
+        "Connections": ["s6"],
+        "Directions": ["West"],
+        "Distances": [96],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s8": {
+        "Coordinate": "43°08'04\"N 79°06'44\"W",
+        "Connections": ["s4", "s9"],
+        "Directions": ["East", "South"],
+        "Distances": [75, 65],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s9": {
+        "Coordinate": "43°08'02\"N 79°06'45\"W",
+        "Connections": ["s8", "s10"],
+        "Directions": ["North", "South"],
+        "Distances": [65, 91],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s10": {
+        "Coordinate": "43°07'58\"N 79°06'45\"W",
+        "Connections": ["s9", "s11"],
+        "Directions": ["North", "South"],
+        "Distances": [91, 172],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s12": {
+        "Coordinate": "43°07'53\"N 79°06'45\"W",
+        "Connections": ["s11", "s13"],
+        "Directions": ["North", "South"],
+        "Distances": [172, 141],
+        "Image 1": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 2": {
+            "Timestamp": 2021,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": "None"
+        }
+    },
+    "s13": {
+        "Coordinate": "43°07'48\"N 79°06'45\"W",
+        "Connections": ["s12", "s14"],
+        "Directions": ["North", "South"],
+        "Distances": [141, 62],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Pothole"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Pothole"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s14": {
+        "Coordinate": "43°07'48\"N 79°06'43\"W",
+        "Connections": ["s13", "s17"],
+        "Directions": ["East", "West"],
+        "Distances": [62, 171],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Sewergate"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s15": {
+        "Coordinate": "43°07'51\"N 79°06'42\"W",
+        "Connections": ["s16", "s18"],
+        "Directions": ["East", "West"],
+        "Distances": [134, 175],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Sewergate"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Sewergate"
+        }
+    },
+    "s16": {
+        "Coordinate": "43°07'54\"N 79°06'38\"W",
+        "Connections": ["s15"],
+        "Directions": ["East"],
+        "Distances": [134],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s17": {
+        "Coordinate": "43°07'48\"N 79°06'35\"W",
+        "Connections": ["s26", "s14"],
+        "Directions": ["East", "West"],
+        "Distances": [136, 171],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s18": {
+        "Coordinate": "43°07'51\"N 79°06'34\"W",
+        "Connections": ["s15", "s20", "s25"],
+        "Directions": ["East", "West", "North"],
+        "Distances": [175, 135, 91],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s19": {
+        "Coordinate": "43°07'53\"N 79°06'29\"W",
+        "Connections": ["s25"],
+        "Directions": ["North"],
+        "Distances": [77],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s20": {
+        "Coordinate": "43°07'55\"N 79°06'33\"W",
+        "Connections": ["s18", "s21"],
+        "Directions": ["South", "East"],
+        "Distances": [135, 160],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s21": {
+        "Coordinate": "43°07'57\"N 79°06'26\"W",
+        "Connections": ["c21", "s20"],
+        "Directions": ["East", "West"],
+        "Distances": [157, 160],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s22": {
+        "Coordinate": "43°07'59\"N 79°06'24\"W",
+        "Connections": ["s23"],
+        "Directions": ["South"],
+        "Distances": [139],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s23": {
+        "Coordinate": "43°07'54\"N 79°06'25\"W",
+        "Connections": ["s22"],
+        "Directions": ["North"],
+        "Distances": [139],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s24": {
+        "Coordinate": "43°07'51\"N 79°06'26\"W",
+        "Connections": ["s25"],
+        "Directions": ["West"],
+        "Distances": [99],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        }
+    },
+    "s25": {
+        "Coordinate": "43°07'51\"N 79°06'30\"W",
+        "Connections": ["s24"],
+        "Directions": ["East"],
+        "Distances": [99],
+        "Image 1": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 2": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
         }
     }
 }
