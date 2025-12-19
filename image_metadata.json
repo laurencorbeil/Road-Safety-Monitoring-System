@@ -941,7 +941,7 @@
         "Directions": ["West", "South"],
         "Distances": [93, 45],
         "Image 1": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
@@ -951,24 +951,24 @@
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 4": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l4": {
@@ -977,34 +977,34 @@
         "Directions": ["North", "SouthEast"],
         "Distances": [52, 45],
         "Image 1": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 2": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 4": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l5": {
@@ -1013,7 +1013,7 @@
         "Directions": ["North", "West", "South"],
         "Distances": [45, 92, 49],
         "Image 1": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
@@ -1023,24 +1023,24 @@
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 4": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l6": {
@@ -1455,24 +1455,24 @@
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 5": {
+        "Image 4": {
             "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 5": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l18": {
@@ -1491,24 +1491,24 @@
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 5": {
+        "Image 4": {
             "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 5": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l19": {
@@ -1522,29 +1522,29 @@
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 3": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
+        "Image 4": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l20": {
@@ -1558,29 +1558,29 @@
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 3": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 3": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
+        "Image 4": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
+        },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2023,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "l21": {
@@ -1735,32 +1735,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         }
     },
     "c2": {
@@ -1771,32 +1771,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c3": {
@@ -1807,32 +1807,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         }
     },
     "c4": {
@@ -1843,32 +1843,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         }
     },
     "c5": {
@@ -1879,32 +1879,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c6": {
@@ -1915,32 +1915,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         }
     },
     "c7": {
@@ -1951,32 +1951,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c8": {
@@ -1987,32 +1987,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         }
     },
     "c9": {
@@ -2023,32 +2023,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         }
     },
     "c10": {
@@ -2059,32 +2059,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c11": {
@@ -2095,32 +2095,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c12": {
@@ -2131,32 +2131,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c13": {
@@ -2167,32 +2167,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 4": {
             "Timestamp": 2014,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": null,
-            "Severity": null,
-            "Issue": "none"
+            "Timestamp": 2019,
+            "Severity": 0,
+            "Issue": "None"
         }
     },
     "c14": {
@@ -2203,32 +2203,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c15": {
@@ -2239,32 +2239,32 @@
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2019,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c16": {
@@ -2275,32 +2275,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c17": {
@@ -2311,32 +2311,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c18": {
@@ -2347,32 +2347,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c19": {
@@ -2383,32 +2383,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c20": {
@@ -2419,32 +2419,32 @@
         "Image 1": {
             "Timestamp": 2015,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
             "Timestamp": 2023,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 3": {
             "Timestamp": 2025,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 4": {
             "Timestamp": 2015,
             "Severity": 1,
-            "Issue": "sewergate"
+            "Issue": "Sewergate"
         },
         "Image 5": {
             "Timestamp": 2023,
             "Severity": 1,
-            "Issue": "cracks"
+            "Issue": "Cracks"
         },
         "Image 6": {
             "Timestamp": 2025,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         }
     },
     "c21": {
@@ -2455,32 +2455,32 @@
         "Image 1": {
             "Timestamp": 2012,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": null,
-            "Severity": null,
-            "Issue": "none"
-        },
-        "Image 3": {
-            "Timestamp": null,
-            "Severity": null,
-            "Issue": "none"
-        },
-        "Image 4": {
             "Timestamp": 2012,
             "Severity": 0,
-            "Issue": "none"
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2012,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 5": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "none"
+            "Issue": null
         },
         "Image 6": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "none"
+            "Issue": null
         }
     },
 	"s1": {
@@ -2489,17 +2489,17 @@
         "Directions": ["South"],
         "Distances": [54],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2023,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2007,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
@@ -2509,12 +2509,12 @@
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2023,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2525,32 +2525,32 @@
         "Directions": ["North", "South"],
         "Distances": [54, 63],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 5": {
             "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2561,68 +2561,68 @@
         "Directions": ["North", "South"],
         "Distances": [63, 68],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 5": {
             "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
     },
     "s4": {
         "Coordinate": "43°08'04\"N 79°06'41\"W",
-        "Connections": ["s3", "s5", "s8"],
-        "Directions": ["North", "East", "West"],
-        "Distances": [68, 45, 75],
+        "Connections": ["s3", "s5"],
+        "Directions": ["North", "East"],
+        "Distances": [68, 45],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 5": {
             "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2633,17 +2633,17 @@
         "Directions": ["West", "East"],
         "Distances": [45, 101],
         "Image 1": {
-            "Timestamp": 2015,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2015,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
@@ -2658,7 +2658,7 @@
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2669,34 +2669,34 @@
         "Directions": ["West", "East"],
         "Distances": [101, 96],
         "Image 1": {
-            "Timestamp": 2023,
-            "Severity": 1,
-            "Issue": "Road signs"
+            "Timestamp": 2015,
+            "Severity": 0,
+            "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2023,
+            "Timestamp": 2015,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 4": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         },
         "Image 6": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": null,
+            "Severity": null,
+            "Issue": null
         }
     },
     "s7": {
@@ -2705,22 +2705,22 @@
         "Directions": ["West"],
         "Distances": [96],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2023,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2009,
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
@@ -2730,79 +2730,43 @@
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        }
-    },
-    "s8": {
-        "Coordinate": "43°08'04\"N 79°06'44\"W",
-        "Connections": ["s4", "s9"],
-        "Directions": ["East", "South"],
-        "Distances": [75, 65],
-        "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 3": {
-            "Timestamp": 2009,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 5": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 6": {
-            "Timestamp": 2014,
+            "Timestamp": 2023,
             "Severity": 0,
             "Issue": "None"
         }
     },
     "s9": {
         "Coordinate": "43°08'02\"N 79°06'45\"W",
-        "Connections": ["s8", "s10"],
-        "Directions": ["North", "South"],
+        "Connections": ["s10"],
+        "Directions": ["South"],
         "Distances": [65, 91],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 3": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 2": {
             "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2813,34 +2777,70 @@
         "Directions": ["North", "South"],
         "Distances": [91, 172],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 3": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 4": {
+        "Image 2": {
             "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
             "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        }
+    },
+    "s11": {
+        "Coordinate": "43°07'58\"N 79°06'45\"W",
+        "Connections": ["s10", "s12"],
+        "Directions": ["North", "South"],
+        "Distances": [91, 172],
+        "Image 1": {
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 2": {
             "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 1,
+            "Issue": "Cracks"
         }
     },
     "s12": {
@@ -2861,22 +2861,22 @@
         "Image 3": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "None"
+            "Issue": null
         },
         "Image 4": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "None"
+            "Issue": null
         },
         "Image 5": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "None"
+            "Issue": null
         },
         "Image 6": {
             "Timestamp": null,
             "Severity": null,
-            "Issue": "None"
+            "Issue": null
         }
     },
     "s13": {
@@ -2885,34 +2885,34 @@
         "Directions": ["North", "South"],
         "Distances": [141, 62],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Pothole"
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Pothole"
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 5": {
             "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
+            "Severity": 2,
+            "Issue": "Pothole"
         }
     },
     "s14": {
@@ -2921,32 +2921,32 @@
         "Directions": ["East", "West"],
         "Distances": [62, 171],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": 2009,
+            "Severity": 2,
+            "Issue": "Pothole"
         },
         "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Cracks"
+        },
+        "Image 3": {
             "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 3": {
-            "Timestamp": 2014,
-            "Severity": 1,
-            "Issue": "Sewergate"
-        },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -2957,17 +2957,17 @@
         "Directions": ["East", "West"],
         "Distances": [134, 175],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 1,
-            "Issue": "Sewergate"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 1,
+            "Issue": "Sewergate"
+        },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
@@ -2982,9 +2982,9 @@
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2014,
-            "Severity": 1,
-            "Issue": "Sewergate"
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
         }
     },
     "s16": {
@@ -2993,19 +2993,19 @@
         "Directions": ["East"],
         "Distances": [134],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 3": {
             "Timestamp": 2014,
             "Severity": 1,
             "Issue": "Cracks"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2009,
@@ -3014,11 +3014,11 @@
         },
         "Image 5": {
             "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
+            "Severity": 1,
+            "Issue": "Cracks"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3029,32 +3029,32 @@
         "Directions": ["East", "West"],
         "Distances": [136, 171],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
+            "Timestamp": 2009,
+            "Severity": 1,
+            "Issue": "Cracks"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
             "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
-            "Timestamp": 2009,
             "Severity": 1,
             "Issue": "Cracks"
         },
-        "Image 6": {
+        "Image 5": {
             "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3065,22 +3065,22 @@
         "Directions": ["East", "West", "North"],
         "Distances": [175, 135, 91],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
@@ -3090,7 +3090,7 @@
             "Issue": "Cracks"
         },
         "Image 6": {
-            "Timestamp": 2007,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3101,32 +3101,32 @@
         "Directions": ["North"],
         "Distances": [77],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 3": {
-            "Timestamp": 2009,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 4": {
-            "Timestamp": 2014,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2007,
             "Severity": 0,
             "Issue": "None"
         },
+        "Image 2": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2007,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3137,32 +3137,32 @@
         "Directions": ["South", "East"],
         "Distances": [135, 160],
         "Image 1": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 2": {
-            "Timestamp": 2025,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 3": {
-            "Timestamp": 2014,
-            "Severity": 1,
-            "Issue": "Cracks"
-        },
-        "Image 4": {
-            "Timestamp": 2007,
-            "Severity": 0,
-            "Issue": "None"
-        },
-        "Image 5": {
             "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
-        "Image 6": {
+        "Image 2": {
             "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 3": {
+            "Timestamp": 2025,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 4": {
+            "Timestamp": 2009,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 5": {
+            "Timestamp": 2014,
+            "Severity": 0,
+            "Issue": "None"
+        },
+        "Image 6": {
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3173,22 +3173,22 @@
         "Directions": ["East", "West"],
         "Distances": [157, 160],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2007,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2007,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
@@ -3198,7 +3198,7 @@
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3209,32 +3209,32 @@
         "Directions": ["South"],
         "Distances": [139],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3245,32 +3245,32 @@
         "Directions": ["North"],
         "Distances": [139],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3281,32 +3281,32 @@
         "Directions": ["West"],
         "Distances": [99],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }
@@ -3317,32 +3317,32 @@
         "Directions": ["East"],
         "Distances": [99],
         "Image 1": {
-            "Timestamp": 2025,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 2": {
-            "Timestamp": 2025,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 3": {
-            "Timestamp": 2014,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 4": {
-            "Timestamp": 2014,
+            "Timestamp": 2009,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 5": {
-            "Timestamp": 2009,
+            "Timestamp": 2014,
             "Severity": 0,
             "Issue": "None"
         },
         "Image 6": {
-            "Timestamp": 2009,
+            "Timestamp": 2025,
             "Severity": 0,
             "Issue": "None"
         }

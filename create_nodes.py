@@ -5,6 +5,7 @@
 # The source of information within this project is contained in the image_metadata.json file.
 
 import json
+import cv2
 
 class create_nodes:
     def __init__(self, node_id, coordinate):
@@ -23,13 +24,51 @@ class create_nodes:
     def add_image(self, image_data):
         self.images.append(image_data)
 
-def parse_metadata():
+# Makes an array of all the images in order of the json node data.
+def open_images():
+    images = []
+    # Adds Holly's images.
+    for i in range (1, 25):
+        for j in range (1, 7):
+            path = f"images/h_pics/h{i}_{j}.png"
+            images.append(cv2.imread(path))
+    # Adds Lauren's images.
+    for i in range (1, 25):
+        for j in range (1, 7):
+            path = f"images/l_pics/l{i}_{j}.png"
+            img = cv2.imread(path)
+            if img is not None:
+                images.append(img)
+            else:
+                images.append(None)
+    # Adds Shay's images.
+    for i in range (1, 22):
+        for j in range (1, 7):
+            path = f"images/c_pics/c{i}_{j}.png"
+            img = cv2.imread(path)
+            if img is not None:
+                images.append(img)
+            else:
+                images.append(None)
+    # Adds Skyler's images.
+    for i in range (1, 26):
+        for j in range (1, 7):
+            path = f"images/s_pics/s{i}_{j}.png"
+            img = cv2.imread(path)
+            if img is not None:
+                images.append(img)
+            else:
+                images.append(None)
+    return images
+
+def parse_metadata(images):
     #OPEN FILE (NEEDS TO KNOW THAT WE ARE USING UTF-8 ENCODING)
     with open('image_metadata.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     #LIST OF NODES
     nodes = {}
+    image_index = 0
 
     for node_id, node_data in data.items():
         #CREATE NODES
@@ -41,13 +80,16 @@ def parse_metadata():
 
             if image_name in node_data:
                 image_data = node_data[image_name]
-                node.add_image({
-                    'image': i,
-                    'year': image_data.get('Timestamp'),
-                    'severity': image_data.get('Severity'),
-                    'issue': image_data.get('Issue')
-                })
-            
+                if image_index < len(images):
+                    node.add_image({
+                        'image': i,
+                        'year': image_data.get('Timestamp'),
+                        'severity': image_data.get('Severity'),
+                        'issue': image_data.get('Issue'),
+                        'picture': images[image_index]
+                    })
+                    image_index += 1
+       
         #CONNECTIONS
         if 'Connections' in node_data and 'Distances' in node_data:
             for i, neighbor in enumerate(node_data['Connections']):
@@ -64,33 +106,20 @@ def parse_metadata():
     return nodes
 
 
-#
-#   THIS PART IS FOR TESTING THE CREATION OF NODES AND SEEING HOW THE DATA IS STORED IN THE NODE
-#
- 
-# if __name__ == "__main__":
-#     nodes = parse_metadata()
-        
-#     # CHOOSE HOW MANY NODES TO SHOW
-#     num_nodes_to_show = 5
-    
-#     # SHOW METADATA
-#     for i, (node_id, node) in enumerate(nodes.items()):
-#         if i >= num_nodes_to_show:
-#             break
-#         print(f"NODE: {node_id}")
-#         print(f"Coordinate: {node.coordinate}")
-        
-#         # CONECTIONS
-#         print(f"\nCONNECTIONS ({len(node.connections)}):")
-#         for conn in node.connections:
-#             print(f"{conn['neighbor']} ({conn['distance']}m, {conn['direction']})")
-        
-#         # IMAGE METADATA
-#         print(f"\nIMAGE METADATA ({len(node.images)} images):")
-        
-#         for img in node.images:
-#             print(f"\nImage {img['image']}:")
-#             print(f"  Year: {img['year']}")
-#             print(f"  Severity: {img['severity']}")
-#             print(f"  Issue: {img['issue']}")
+# Test to show that images are properly stored in each node. Can be deleted when no longer needed.
+if __name__ == "__main__":
+
+    images = open_images()
+    nodes = parse_metadata(images)
+
+    for node_id, node in nodes.items():
+        for img_data in node.images:
+            img = img_data['picture']
+            window_name = f"Node {node_id} - Image {img_data['image']}"
+            if img is None:
+                print(f"Skipped missing image: {window_name}")
+                continue
+            cv2.imshow(window_name, img)
+            cv2.waitKey(0)
+            cv2.destroyWindow(window_name)
+    cv2.destroyAllWindows()
