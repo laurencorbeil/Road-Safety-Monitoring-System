@@ -1,7 +1,7 @@
 # This file is used to turn nodes into a graphical format
 # Updated to include Computer Vision integration for safety scoring
 
-# Try to import the RoadScanner from your inference file
+# Try to import the RoadScanner from our inference file
 # I (skyler) made it use try/except so the graph still works even if the AI model isn't trained yet
 try:
     from cv_inference import RoadScanner
@@ -19,7 +19,7 @@ class create_graph:
         self.scanner = None
         if RoadScanner:
             try:
-                # Initialize the model with the path to your trained weights
+                # Initialize the model with the path to our trained weights
                 self.scanner = RoadScanner(model_path)
                 print("AI Road Scanner loaded successfully.")
             except Exception as e:
@@ -44,7 +44,7 @@ class create_graph:
             # Only scan if the image was loaded successfully
             if image is not None:
                 # Scan the image using the loaded AI model
-                # Note: Ensure your cv_inference.py accepts numpy arrays (cv2 images)
+                # Note: Ensure our cv_inference.py accepts numpy arrays (cv2 images)
                 result = self.scanner.scan_image(image)
                 scores.append(result['hazard_score'])
         
