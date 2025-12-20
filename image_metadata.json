@@ -3025,7 +3025,7 @@
     },
     "s17": {
         "Coordinate": "43°07'48\"N 79°06'35\"W",
-        "Connections": ["s26", "s14"],
+        "Connections": ["c13", "s14"],
         "Directions": ["East", "West"],
         "Distances": [136, 171],
         "Image 1": {
