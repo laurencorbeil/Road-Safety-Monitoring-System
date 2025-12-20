@@ -2161,9 +2161,9 @@
     },
     "c13": {
         "Coordinate": "43°07'48\"N 79°06'23\"W",
-        "Connections": ["c12", "c14", "s26"],
-        "Directions": ["North", "East", "West"],
-        "Distances": [145, 190, 132],
+        "Connections": ["c12", "c14"],
+        "Directions": ["North", "East"],
+        "Distances": [145, 190],
         "Image 1": {
             "Timestamp": 2019,
             "Severity": 1,
