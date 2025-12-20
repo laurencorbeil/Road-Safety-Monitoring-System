@@ -1,2 +1,4 @@
 #ignore dataset folder holding all 500+ images used to train the model
 /dataset/
+/images/
+/dataset_cls/
