@@ -1,11 +1,11 @@
 # This file is used to turn the project metadata into usable nodes for graphing.
 # Each node contains the fields that are common across all data points in image_metadata.
 # These nodes can later be turned into graphs for future use.
-
 # The source of information within this project is contained in the image_metadata.json file.
 
 import json
 import cv2
+import os
 
 class create_nodes:
     def __init__(self, node_id, coordinate):
@@ -27,38 +27,31 @@ class create_nodes:
 # Makes an array of all the images in order of the json node data.
 def open_images():
     images = []
-    # Adds Holly's images.
-    for i in range (1, 25):
-        for j in range (1, 7):
+
+    for i in range(1, 25):
+        for j in range(1, 7):
             path = f"images/h_pics/h{i}_{j}.png"
-            images.append(cv2.imread(path))
-    # Adds Lauren's images.
-    for i in range (1, 25):
-        for j in range (1, 7):
+            img = cv2.imread(path) if os.path.isfile(path) else None
+            images.append(img)
+
+    for i in range(1, 25):
+        for j in range(1, 7):
             path = f"images/l_pics/l{i}_{j}.png"
-            img = cv2.imread(path)
-            if img is not None:
-                images.append(img)
-            else:
-                images.append(None)
-    # Adds Shay's images.
-    for i in range (1, 22):
-        for j in range (1, 7):
+            img = cv2.imread(path) if os.path.isfile(path) else None
+            images.append(img)
+
+    for i in range(1, 22):
+        for j in range(1, 7):
             path = f"images/c_pics/c{i}_{j}.png"
-            img = cv2.imread(path)
-            if img is not None:
-                images.append(img)
-            else:
-                images.append(None)
-    # Adds Skyler's images.
-    for i in range (1, 26):
-        for j in range (1, 7):
+            img = cv2.imread(path) if os.path.isfile(path) else None
+            images.append(img)
+
+    for i in range(1, 26):
+        for j in range(1, 7):
             path = f"images/s_pics/s{i}_{j}.png"
-            img = cv2.imread(path)
-            if img is not None:
-                images.append(img)
-            else:
-                images.append(None)
+            img = cv2.imread(path) if os.path.isfile(path) else None
+            images.append(img)
+
     return images
 
 def parse_metadata(images):
@@ -72,7 +65,7 @@ def parse_metadata(images):
 
     for node_id, node_data in data.items():
         #CREATE NODES
-        node = create_nodes(node_id, node_data['Coordinate'])
+        node = create_nodes(node_id, node_data.get('Coordinate'))
 
         #IMAGES AND IMAGE METADATA
         for i in range(1, 7):

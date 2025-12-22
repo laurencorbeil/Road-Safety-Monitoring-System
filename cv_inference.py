@@ -62,7 +62,7 @@ class RoadScanner:
             "prediction": class_dict[probs.top1] # The text label (e.g., "hazardous")
         }
 
-# --- TEST BLOCK ---
+# TEST BLOCK
 # This only runs if you run this file directly (not when imported by create_graph.py)
 if __name__ == "__main__":
     # Define where the trained model lives

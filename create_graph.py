@@ -1,8 +1,7 @@
 # This file is used to turn nodes into a graphical format
 # Updated to include Computer Vision integration for safety scoring
-
 # Try to import the RoadScanner from our inference file
-# I (skyler) made it use try/except so the graph still works even if the AI model isn't trained yet
+
 try:
     from cv_inference import RoadScanner
 except ImportError:
@@ -11,7 +10,7 @@ except ImportError:
 class create_graph:
 
     # INITIALIZE EMPTY GRAPH
-    def __init__(self, model_path='road_safety_project/hazard_classifier/weights/best.pt'):
+    def __init__(self, model_path='road_safety_project/hazard_classifier2/weights/best.pt'):
         self.nodes = {}
         self.adjacency = {}
         
@@ -72,12 +71,12 @@ class create_graph:
                 if neighbor_id in self.nodes:
                     base_distance = connection['distance']
                     
-                    # --- AI SAFETY INTEGRATION ---
+                    # AI SAFETY INTEGRATION
                     # We modify the 'weight' used for pathfinding based on the hazard score.
                     # Formula: Effective Distance = Real Distance * (1 + (Hazard Score * Penalty))
-                    
                     # Example: If hazard is 1.0 (100%), and penalty is 5.0, 
                     # the road will "look" 6 times longer to the pathfinding algorithm.
+
                     penalty_factor = 5.0 
                     adjusted_weight = base_distance * (1 + (node_hazard_score * penalty_factor))
 
