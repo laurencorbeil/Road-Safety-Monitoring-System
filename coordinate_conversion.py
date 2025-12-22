@@ -1,7 +1,6 @@
 import re
 
 # This file converts the coordinates for selected nodes from DMS to decimal so that we can use them with OSM
-
 def dms_to_decimal(coord):
 
     #if the user sends a coordinate that is any other type return it without change

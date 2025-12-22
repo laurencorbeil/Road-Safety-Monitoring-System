@@ -7,6 +7,8 @@ import json
 import cv2
 import os
 
+directory = os.path.dirname(__file__)
+
 class create_nodes:
     def __init__(self, node_id, coordinate):
         self.id = node_id
@@ -28,35 +30,36 @@ class create_nodes:
 def open_images():
     images = []
 
+    def load_img(*parts):
+        path = os.path.join(directory, *parts)
+        return cv2.imread(path) if os.path.isfile(path) else None
+
     for i in range(1, 25):
         for j in range(1, 7):
-            path = f"images/h_pics/h{i}_{j}.png"
-            img = cv2.imread(path) if os.path.isfile(path) else None
+            img = load_img('images', 'h_pics', f'h{i}_{j}.png')
             images.append(img)
 
     for i in range(1, 25):
         for j in range(1, 7):
-            path = f"images/l_pics/l{i}_{j}.png"
-            img = cv2.imread(path) if os.path.isfile(path) else None
+            img = load_img('images', 'l_pics', f'l{i}_{j}.png')
             images.append(img)
 
     for i in range(1, 22):
         for j in range(1, 7):
-            path = f"images/c_pics/c{i}_{j}.png"
-            img = cv2.imread(path) if os.path.isfile(path) else None
+            img = load_img('images', 'c_pics', f'c{i}_{j}.png')
             images.append(img)
 
     for i in range(1, 26):
         for j in range(1, 7):
-            path = f"images/s_pics/s{i}_{j}.png"
-            img = cv2.imread(path) if os.path.isfile(path) else None
+            img = load_img('images', 's_pics', f's{i}_{j}.png')
             images.append(img)
 
     return images
 
 def parse_metadata(images):
-    #OPEN FILE (NEEDS TO KNOW THAT WE ARE USING UTF-8 ENCODING)
-    with open('image_metadata.json', 'r', encoding='utf-8') as f:
+    # OPEN file relative to module directory
+    json_path = os.path.join(directory, 'image_metadata.json')
+    with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     #LIST OF NODES

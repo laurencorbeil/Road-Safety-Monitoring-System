@@ -3,7 +3,7 @@ import os
 import shutil
 from sklearn.model_selection import train_test_split
 
-# --- CONFIGURATION ---
+# CONFIGURATION
 # The folder where our subfolders (h_pics, l_pics, etc.) are located.
 # Change this if our images are in a different spot!
 SOURCE_IMAGES_DIR = "images"  
