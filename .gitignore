@@ -1,4 +1,6 @@
-#ignore dataset folder holding all 500+ images used to train the model
 /dataset/
 /images/
 /dataset_cls/
+__pycache__/
+.vscode/
+/WEBSITE/.venv/

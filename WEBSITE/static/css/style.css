@@ -1,0 +1,127 @@
+header {
+    background-color: #8da9c4;
+    padding: 35px 0;
+    color:white;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #d9dde2;
+}
+
+nav {
+    text-align: center;
+    background-color: #134074;
+    padding: 20px;
+    color:white;
+}
+
+h1 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+* { box-sizing: border-box; }
+
+.map_section {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+}
+
+#map {
+    flex: 1 1 auto;
+    min-width: 0;
+    height: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    margin: 0;
+}
+
+#info {
+    width: 320px;
+    flex: 0 0 320px;
+    background: #8da9c4;
+    padding: 18px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    font-size: 15px;
+    color: #222;
+    max-height: 600px;
+    overflow: auto;
+}
+
+.info_row label {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#algo {
+    width: 100%;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    box-sizing: border-box;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+    .map-wrapper {
+        flex-wrap: wrap;
+    }
+    #map, #info-panel {
+        width: 100%;
+        flex: none;
+    }
+}
+
+button {
+    display: block;
+    margin: 15px auto;
+    padding: 10px 25px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #8da9c4;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #134074;
+}
+
+footer {
+    text-align: center;
+    background-color: #134074;
+    padding: 15px 0;
+    color:white;
+}
+
+nav a{
+    font-size: 20;
+    text-decoration: none;
+    margin: 0 20px;
+    color:white;
+}
+
+nav a:hover {
+    color: white;
+    background-color: #8da9c4;
+    border-radius: 6px;
+    transition: background 0.2s, color 0.2s;
+}
+
+h3 {
+    font-size: smaller;
+    text-align: justify;
+}

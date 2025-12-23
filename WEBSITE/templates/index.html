@@ -1,0 +1,77 @@
+<html>
+<head>
+    <title>Industry Project</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet/dist/leaflet.css"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+    </style>
+</head>
+
+<body>
+
+<header><h1>AI Powered Road Monitoring Safety System - Industry Project</h1></header>
+
+<nav>
+    <a href = "index.html">Project Report</a>
+    <a href = "https://github.com/laurencorbeil/Road-Safety-Monitoring-System">Github Repository</a>
+    <a href = "https://earth.google.com/earth/d/1OuEDfUtUu3CSlel3qfIjSiXt5ZUqryl6?usp=sharing">Google Earth Nodes</a>
+</nav>
+
+<div class="map_section">
+    <div id="map"></div>
+
+    <aside id="info" aria-live="polite">
+        <h2>Selected Route Info</h2>
+        <h3><b>If your selected markers do not work please place markers closer to nodes on Google Earth map...</b></h3>
+
+        <div class="info_row">
+            <label for="algo">Algorithm:</label>
+            <select id="algo" aria-label="Select algorithm">
+                <option value="astar">A*</option>
+                <option value="dijkstra">Dijkstra</option>
+            </select>
+        </div>
+
+        <div class="info_row"><span>Distance:</span><span id="distance">—</span></div>
+        <div class="info_row"><span>Nodes:</span><span id="nodes">—</span></div>
+        <div class="info_row"><span>Run Time:</span><span id="time">—</span></div>
+        <hr>
+        <div id="details">No route selected.</div>
+    </aside>
+</div>
+
+<button onclick="go()">Go</button>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="/static/js/map.js"></script>
+
+<script>
+function updateInfo(distance, nodes, details) {
+    document.getElementById('distance').textContent = distance ?? '—';
+    document.getElementById('nodes').textContent = nodes ?? '—';
+    document.getElementById('time').textContent = details?.time ?? '—';
+    document.getElementById('details').textContent = details?.text ?? (typeof details === 'string' ? details : '—');
+}
+
+function getSelectedAlgorithm() {
+    return document.getElementById('algo')?.value ?? 'astar';
+}
+
+document.getElementById('algo')?.addEventListener('change', () => {
+    const algorithm = getSelectedAlgorithm();
+    document.getElementById('details').textContent = `Selected algorithm: ${algorithm}`;
+});
+</script>
+</script>
+
+<footer>Team Members: Lauren Corbeil (7698699) | Holly Young (7492895) | Shayel Penuela (7514888) | Skyler Serwa (7643588) </footer>
+</body>
+</html>
